@@ -1,11 +1,12 @@
 # Angular + openlayers
 So, you decided to start a new web app that displayed a map. 
 My recommendation is to use Angular + openlayers.
+
 Why?
-For two good reasons, first angular, second openlayers.
+For two good reasons, first [angular](https://angular.io/), second [openlayers](https://openlayers.org/).
 ### First reason
-As you know, angular is a fantastic framework to build complex SPA and PWA, and there is enourmous blogs and examples how to use it.
-The very basic you need to do to creare a basic web app based on angular is:
+As you know, angular is a fantastic framework for building a complex SPA and PWA, and there is enourmous blogs and examples how to use it.
+The very basic steps you need to do to creare a web app based on angular is:
 ```sh
 npm i -g @angular/cli
 ng new map-app
